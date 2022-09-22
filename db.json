@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "Fname": "Hareem",
+      "Lname": "fyazaa",
+      "email": "Hareem@gmail.com",
+      "contact": "03001234567",
+      "address": "dha phase 1 Lahore",
+      "designation": "developer"
+    },
+    {
+      "Fname": "Muqaddas",
+      "Lname": "shahbaz",
+      "contact": "03016366445",
+      "email": "muqaddas6225@gmail.com",
+      "address": "dha phase 4",
+      "designation": "developer",
+      "id": 2
+    },
+    {
+      "Fname": "Aysha",
+      "Lname": "batool",
+      "contact": "01234567890",
+      "email": "bismaamjadfarooq@gmail.com",
+      "address": "dha phase 3 lahre",
+      "designation": "QA",
+      "id": 3
+    },
+    {
+      "Fname": "Sidra",
+      "Lname": "sohail",
+      "contact": "03006480919",
+      "email": "2018cs429@student.uet.edu.pk",
+      "address": "iqbal town st# 1 ghkhar",
+      "designation": "designer",
+      "id": 4
+    }
+  ]
+}
